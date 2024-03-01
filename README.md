@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, We are Prompt AGI Team 👋
 
 <!--
 **promptagi/PromptAGI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
